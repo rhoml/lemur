@@ -46,7 +46,7 @@ install_requires = [
     'pyjwt==1.0.1',
     'xmltodict==0.9.2',
     'lockfile==0.10.2',
-    'future==0.15.0',
+    'future==0.18.3',
 ]
 
 tests_require = [
