@@ -24,7 +24,7 @@ from subprocess import check_output
 ROOT = os.path.realpath(os.path.join(os.path.dirname(__file__)))
 
 install_requires = [
-    'Flask==0.10.1',
+    'Flask==2.3.2',
     'Flask-RESTful==0.3.3',
     'Flask-SQLAlchemy==2.0',
     'Flask-Script==2.0.5',
